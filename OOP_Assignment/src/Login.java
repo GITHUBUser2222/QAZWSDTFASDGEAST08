@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class Login {
 
-	static int indexCalled=0;
+	static int indexCalled=1;
 	static Scanner scanner=new Scanner(System.in);
 	static String identity="";
 	static String password="";
